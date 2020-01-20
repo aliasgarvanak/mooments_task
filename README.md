@@ -17,7 +17,7 @@ Explaination :
 1) Front End - Angular
 - This is used to perform the front end task where user do several requests and get the out put through the API which is developed in back end (Laravel).
 
-Download the script : https://github.com/aliasgarvanak/mooments/frontend
+Download the script : https://github.com/aliasgarvanak/mooments/frontend.zip and extract it
 
 Open the script folder in to the terminal and run the following commands :
 npm intall
@@ -29,7 +29,7 @@ ng serve --open
 2) Back End - Laravel
 - This is used to perfrom the back end tasks whose requests coming from the front end by the user and perform the logics and give the output.
 
-Download the script : https://github.com/aliasgarvanak/mooments/backend
+Download the script : https://github.com/aliasgarvanak/mooments/backend.zip and extract it
 
 Open the script folder in to the terminal and run the following commands :
 php artisan serve
